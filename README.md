@@ -1,1 +1,1 @@
-git clone https://github.com/MrIvan13/nmap.sh
+https://github.com/MrIvan13/escaneo-nmap.git
